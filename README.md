@@ -1,51 +1,65 @@
-# BUTTERFLY-MD 🦋
-**SIMPLE BOT WHATSAPP BY ©INCONNU BOY ✨** 
+# BUTTERFLY-MD
 
-# 
-   <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-<p align="center"> 
-<u>🦋 A simple WhatsApp User Bot Coded By ©inconnu boy 🦋</u>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+𝐒𝐢𝐦𝐩𝐥𝐞 𝐁𝐞𝐬𝐭 𝐖𝐡𝐚𝐭𝐬𝐚𝐩𝐩 𝐁𝐨𝐭 𝐂𝐫𝐞𝐚𝐭𝐞𝐝 𝐁𝐲 INCONNU BOY 🌝💚
+<div class = "repo" align = "center">
+ 
+<a href = "#">
+<img src = "https://files.catbox.moe/1rvn8b.jpg"  width="300" height="200">
+</img>
+ <p align="center">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=ff00ab&center=true&vCenter=true&multiline=false&lines=BUTTERFLY-MD+MD+WHATSAPP+BOT+MD" alt="">
+   
+## 𝐃𝐄𝐏𝐋𝐎𝐘 𝐒𝐄𝐓𝐔𝐏 ↕️
+
+**1. Fork This Repository**
+
+*_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
+
+  <a href="https://github.com/inconnuboy/BUTTERFLY-MD/fork"><img title="BUTTERFLY-MD" src="https://img.shields.io/badge/FORK-BUTTERFLY-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
+
+🔑 Get Session ID (WhatsApp Pair Code Login)
+
+> To deploy, generate your session ID from the link below:
+<p align="left">
+  <a href="https://malvin-pair-code-xzcb.onrender.com/?">
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80%20GET%20PAIR%20CODE%20WEB-ffcc00?style=for-the-badge"/>
+  </a>
 </p>
-<p align="center">
-<img src="https://files.catbox.moe/3khlhm.jpg"/>       
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•__BUTTERFLY+MD__•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+©INCONNU+BOY;RELEASED+DATE+18%2F6%2F2024." alt="Typing SVG" /></a>
-</p> 
-<p align="center">
-<a href="#"><img title="Creator" src="https://img.shields.io/badge/Creator-©INCONNU_BOY-red.svg?style=for-the-badge&logo=github"></a>
-</p>
-<p align="center">
-<a href="https://github.com/inconnuboy/BUTTERFLY-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/aloneboytech/BUTTERFLY-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/DeeCeeXxx/Itachi_Uchiha-Md/network/members"><img title="Forks" src="https://img.shields.io/github/forks/inconnuboy/BUTTERFLY-MD?color=yellow&style=flat-square"></a>
-<a href="https://https://github.com/inconnuboy/BUTTERFLY-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/inconnuboy/BUTTERFLY-MD?label=Watchers&color=red&style=flat-square"></a>
-<a href="https://github.com/inconnuboy/BUTTERFLY-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained-Yes-red.svg"></a>&nbsp;&nbsp;
-</p>
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
 
-## BUTTERFLY-MD 🦋 Deployment Methods
----
-1. Click on Fork repo <br>
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
-<a href="https://github.com/inconnuboy/BUTTERFLY-MD/fork"><img title="FORK REPO" src="https://img.shields.io/badge/FORK REPO-h?color=black&style=for-the-badge&logo=stackshare"></a>
+2. **Obtain the Session ID**: After accessing the URL, you should see a session ID displayed. Copy this session ID.
 
-2. Obtain a bot session: 
 
-<a href='https://inconnu-session-1.onrender.com' target="_blank">
-    <img alt='SCAN QR' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=black'/>
-</a>
+   
+  1..DEPLOY ON HEROKU ⤵️
+  
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Finconnuboy%2FBUTTERFLY-MD) 
+   
+   
+  2..DEPLOY ON RENDER ⤵️
 
-##
-3. **Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https://github.com/aloneboytech/BUTTERFLY-MD)**
-8. **You can visit Bot whatsapp channel [`BY CLICKING HERE`](https://whatsapp.com/channel/0029Vb5OsKz7dmeeDsoYbz3c) for more**
-9. **All Tutorials Are `COMING SOON`**
-10. - **Github Deployement**
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/inconnuboy/BUTTERFLY-MD.git)
 
-  1. Fork The Repo
-  2. Edit the file config.js 
-  3. create a new file `.github/workflows/deploy.yml` and put this content in :
 
-```yml
+   3..DEPLOY ON GITHUB ⤵️
+
+
+</details>
+
+<b><strong><summary align="center" style="color: Yello;">Deploy On Workflow</summary></strong></b>
+<p style="text-align: center; font-size: 1.2em;">
+ 
+<h8>Copy the workflow codes and then frok the repo edit config add session id then save and now click on repo action tag then click on start new workflow then paste workflow codes rename main.yml to deploy.yml and save the file</h8>
+<h3 align-"center"> Important</h3>
+<h6 align-"center">Attention! We do not take responsibility if your github account is suspended through this Deploy method, I advise you not to use this workflow deploy method in the latest github accounts, github accounts created a year or more ago have not received the risk of suspension so far, this works It will only be done for 6 hours, you need to update the code to reactivate it.</h6>
+
+```
 name: Node.js CI
 
 on:
@@ -58,6 +72,7 @@ on:
 
 jobs:
   build:
+
     runs-on: ubuntu-latest
 
     strategy:
@@ -65,43 +80,30 @@ jobs:
         node-version: [20.x]
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
+    - name: Checkout repository
+      uses: actions/checkout@v3
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: ${{ matrix.node-version }}
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: ${{ matrix.node-version }}
 
-      - name: Install dependencies
-        run: npm install
+    - name: Install dependencies
+      run: npm install
 
-      - name: Start application
-        run: npm start
+    - name: Start application
+      run: npm start
 ```
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
- ##
-<a href='https://inconnu-session-1.onrender.com' target="_blank">
-    <img alt='PAIR CODE' src='https://img.shields.io/badge/Scan_qr-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=Blue&color=Blue'/>
-</a>
+### Thank You Dear
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+> DEVELOPER OF BUTTERFLY-MD 
+- [INCONNU BOY ](https://github.com/inconnuboy)
+- Creater and Owner Of LITE-MD
 
-
-      BUTTERFLY-MD whatsapp bot is an easy to use whatsapp robot.   |  ©inconnu boy tech whatsapp bot
-# 
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
- ## [ WHATSAPP CHANNEL ](https://whatsapp.com/channel/0029Vb5OsKz7dmeeDsoYbz3c) 
-
-## Support
-
-SUPPORT CHANNEL: <a href="https://whatsapp.com/channel/0029Vb5OsKz7dmeeDsoYbz3c"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-
-### Please Give One Star ✨ & [follow me notify my updates 🦋✨](https://github.com/inconnuboy)
-<b>Version -> 1.0.0</b>
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
+> LITE-MD Helper
+- [INCONNU BOY](https://github.com/inconnuboy)
+- For helping in bot plugin files.
+---
+<a><img src='https://i.imgur.com/LyHic3i.gif'/>
