@@ -16,7 +16,7 @@
 
 *_Start by forking this repository to your own GitHub account. Click the button below to fork:_*
 
-  <a href="https://github.com/inconnuboy/BUTTERFLY-MD/fork"><img title="BUTTERFLY-MD" src="https://img.shields.io/badge/FORK-BUTTERFLY-MDh?color=darkblue&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/inconnuboy/BUTTERFLY-MD/fork"><img title="BUTTERFLY-MD" src="https://img.shields.io/badge/FORK-BUTTERFLY-MDh?color=Greenblue&style=for-the-badge&logo=stackshare"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/>
 
